@@ -58,7 +58,6 @@ Recruiter-friendly highlights:
 
 The model successfully learned customer–purchase behaviour patterns and achieved strong predictive performance.
 
-Included outputs (in `images/` folder):
 - Loss curve  
 - Actual vs predicted graph  
 - Feature relationship plots  
